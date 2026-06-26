@@ -136,7 +136,7 @@ export default async function PropertyPage({
                 Schedule a Viewing
               </h3>
 
-              <p className="mt-3 text-sm text-zinc-400">
+              <p className="mt-3 mb-3 text-sm text-zinc-400">
                 Interested in this property? Contact us to
                 arrange a private tour.
               </p>

@@ -23,7 +23,7 @@ export default function CTA() {
             <Button
               size="lg"
               variant="outline"
-              className="border-white/20 text-white"
+              className="bg-black border-white/20 text-white"
             >
               Browse Properties
             </Button>
