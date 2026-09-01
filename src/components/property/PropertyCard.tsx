@@ -25,7 +25,7 @@ export default function PropertyCard({
           <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent" />
 
           <div className="absolute left-4 top-4 rounded-full bg-yellow-500 px-4 py-2 text-sm font-semibold text-black">
-            ${property.price.toLocaleString()}
+            ₦{property.price.toLocaleString()}
           </div>
         </div>
 

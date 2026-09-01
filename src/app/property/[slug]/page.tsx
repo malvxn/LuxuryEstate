@@ -60,7 +60,7 @@ export default async function PropertyPage({
               </div>
 
               <p className="mt-8 text-4xl font-semibold text-yellow-400">
-                ${property.price.toLocaleString()}
+                ₦{property.price.toLocaleString()}
               </p>
 
               <div className="mt-10 flex flex-wrap gap-8 border-y border-zinc-800 py-6">

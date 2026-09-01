@@ -22,10 +22,10 @@ export default function LuxurySearch() {
 
         <select className="h-12 rounded-md border border-white/10 bg-white/5 px-3 text-white outline-none">
           <option className="text-black">Price Range</option>
-          <option className="text-black">$500k+</option>
-          <option className="text-black">$1M+</option>
-          <option className="text-black">$5M+</option>
-          <option className="text-black">$10M+</option>
+          <option className="text-black">₦30m+</option>
+          <option className="text-black">₦90M+</option>
+          <option className="text-black">₦200M+</option>
+          <option className="text-black">₦1B+</option>
         </select>
 
         <Button

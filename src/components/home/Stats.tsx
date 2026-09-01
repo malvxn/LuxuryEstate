@@ -1,19 +1,19 @@
 export default function Stats() {
   const stats = [
     {
-      value: "500+",
+      value: "80+",
       label: "Luxury Properties",
     },
     {
-      value: "$250M+",
+      value: "₦400M+",
       label: "Transactions Closed",
     },
     {
-      value: "98%",
+      value: "92%",
       label: "Client Satisfaction",
     },
     {
-      value: "15+",
+      value: "7+",
       label: "Years Experience",
     },
   ];
